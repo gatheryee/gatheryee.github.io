@@ -28,5 +28,5 @@ a:hover {
 }
 
 div.post {
-    border-left: 6px black;
+    border-left: 6px solid black;
 }

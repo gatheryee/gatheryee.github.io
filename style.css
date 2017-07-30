@@ -1,5 +1,5 @@
 body {
-    width: 1080px;
+    width: 800px;
     margin: auto;
     font-family: Arial, "Helvetic Neue", Helvetica, sans-serif;
 }
@@ -25,4 +25,8 @@ a:visited {
 a:hover {
     color: black;
     text-decoration: underline;
+}
+
+div.post {
+    border-left: 6px black;
 }
